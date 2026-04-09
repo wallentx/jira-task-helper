@@ -9,13 +9,13 @@
   "author": "Faizaan <aulisius7@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "1.7.5",
+    "electron": "39.8.5",
     "electron-builder": "^19.22.1"
   },
   "dependencies": {
     "electron-platform": "^1.2.0",
     "electron-store": "^1.2.0",
-    "request": "2.81.0",
+    "request": "2.88.2",
     "request-promise-native": "1.0.4"
   }
 }
